@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://or-less.github.io/sitemap.xml
