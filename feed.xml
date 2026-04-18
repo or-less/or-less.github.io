@@ -6,7 +6,15 @@
     <description>Welcome to Gridea Pro</description>
     <language>zh-cn</language>
     <generator>Gridea Pro</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 10:28:37 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 10:29:32 +0800</lastBuildDate>
     <atom:link href="https://or-less.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <item>
+      <title>test</title>
+      <link>https://or-less.github.io/post/test/</link>
+      <guid isPermaLink="true">https://or-less.github.io/post/test/</guid>
+      <pubDate>Sat, 18 Apr 2026 10:28:26 +0800</pubDate>
+      <description><![CDATA[<p>test</p>
+]]></description>
+    </item>
   </channel>
 </rss>

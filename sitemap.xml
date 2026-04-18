@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://or-less.github.io/</loc>
-    <lastmod>2026-04-18T10:28:37+08:00</lastmod>
+    <lastmod>2026-04-18T10:29:36+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://or-less.github.io/post/test/</loc>
+    <lastmod>2026-04-18T10:29:32+08:00</lastmod>
   </url>
   <url>
     <loc>https://or-less.github.io/tags/</loc>
-    <lastmod>2026-04-18T10:28:37+08:00</lastmod>
+    <lastmod>2026-04-18T10:29:36+08:00</lastmod>
   </url>
   <url>
     <loc>https://or-less.github.io/archives/</loc>
-    <lastmod>2026-04-18T10:28:37+08:00</lastmod>
+    <lastmod>2026-04-18T10:29:36+08:00</lastmod>
   </url>
 </urlset>
